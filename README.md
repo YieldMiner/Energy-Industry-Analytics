@@ -24,6 +24,27 @@ Interactive Power BI dashboard analyzing 35 years of U.S. energy consumption dat
 - **Power BI**: Interactive dashboards and business intelligence
 - **EIA API**: U.S. Energy Information Administration data source
 
+## 📊 Advanced Python Analytics
+
+### Statistical Visualizations
+- **Four Forces Analysis**: Area charts showing the major energy transformation patterns
+- **Investment Performance Metrics**: 20-year returns analysis with risk thresholds  
+- **Correlation Matrix**: Statistical relationships between energy sources
+- **Portfolio Allocation Framework**: Strategic categorization of energy investments
+
+### Key Statistical Findings
+- **Renewable Energy**: 122% growth over 20 years (strongest performer)
+- **Coal**: -58.8% decline (clear divestment signal)  
+- **Natural Gas**: 72.7% growth (reliable growth play)
+- **Strong negative correlation** (-0.9) between coal and natural gas consumption
+
+![Four Forces Analysis]
+<img width="2486" height="1533" alt="image" src="https://github.com/user-attachments/assets/0ce8edf3-61de-4da6-afab-5adb5e4eacd2" />
+
+![Correlation Matrix]
+<img width="1068" height="1012" alt="image" src="https://github.com/user-attachments/assets/2eef502f-9bc1-4426-8f6d-15819d7a9e4d" />
+
+
 
 ## Dashboard Features
 
