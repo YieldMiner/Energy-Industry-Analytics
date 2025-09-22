@@ -24,7 +24,7 @@ Interactive Power BI dashboard analyzing 35 years of U.S. energy consumption dat
 - **Power BI**: Interactive dashboards and business intelligence
 - **EIA API**: U.S. Energy Information Administration data source
 
-## 📊 Advanced Python Analytics
+## Advanced Python Analytics
 
 ### Statistical Visualizations
 - **Four Forces Analysis**: Area charts showing the major energy transformation patterns
